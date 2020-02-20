@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+}
+
+header {
+    width: 100%;
+    background-color: #C90734;
+}
+
+.logo {
+    width: 10%;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+nav {
+    width: 60%;
+    margin: auto;
+    background-color: green;
+    text-align: right;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.25rem;
+    padding: 10px;
+}
